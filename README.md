@@ -1,6 +1,6 @@
 # 👨‍💻 Cauã Ferrigolli
 
-##`Desenvolvedor Fullstack`##
+`Desenvolvedor Fullstack`
 
 Me chamo Cauã Ferrigolli Loureiro, tenho 21 anos e sou natural de São paulo. Concluí o ensino médio no Colégio Objetivo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fiap. Sou apaixonado por tecnologia e pelo mercado de trabalho.
 
