@@ -1,8 +1,8 @@
 # 👨‍💻 Cauã Ferrigolli
 
-`Desenvolvedor Fullstack`
+`Desenvolvedor Front-End`
 
-Me chamo Cauã Ferrigolli Loureiro, tenho 21 anos e sou natural de São paulo. Concluí o ensino médio no Colégio Objetivo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fiap. Sou apaixonado por tecnologia e pelo mercado de trabalho.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento front-end e conhecimento em JavaScript, React.js, node.js, SQL, HTML5 e CSS3. Busco evoluir para a área de desenvolvimento fullstack, ampliando minha atuação em back-end e tecnologias voltadas à inteligência artificial. Valorizo boas práticas de desenvolvimento, aprendizado contínuo, vivência corporativa e participação ativa em projetos de tecnologia.
 
 <p align="left">
     <a href="https://github.com/Caualo?tab=repositories&sort=stargazers">
